@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    margin-inline: 30px;
+    margin-block: 40px;
+    background-color: rgb(127, 52, 9);
+}
+.main{
+    background-color: rgb(11, 33, 120);
+}
